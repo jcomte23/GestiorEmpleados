@@ -11,13 +11,9 @@ var empleado = new Empleado
     Salario = 50000
 };
 
-var empleado2 = new Empleado
-{
-    Id = Guid.NewGuid(),
-    Nombre = "María",
-    Apellido = "Gómez",
-    NumeroDeIdentificacion = "987654321",
-    Edad = 28,
-    Posicion = "Diseñadora",
-    Salario = 45000
-};
+
+
+
+empleado.MostrarInformacion();
+
+

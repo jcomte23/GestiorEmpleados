@@ -1,0 +1,15 @@
+/home/jcomte23/Projects/GestiorEmpleados/bin/Debug/net8.0/GestiorEmpleados
+/home/jcomte23/Projects/GestiorEmpleados/bin/Debug/net8.0/GestiorEmpleados.deps.json
+/home/jcomte23/Projects/GestiorEmpleados/bin/Debug/net8.0/GestiorEmpleados.runtimeconfig.json
+/home/jcomte23/Projects/GestiorEmpleados/bin/Debug/net8.0/GestiorEmpleados.dll
+/home/jcomte23/Projects/GestiorEmpleados/bin/Debug/net8.0/GestiorEmpleados.pdb
+/home/jcomte23/Projects/GestiorEmpleados/obj/Debug/net8.0/GestiorEmpleados.GeneratedMSBuildEditorConfig.editorconfig
+/home/jcomte23/Projects/GestiorEmpleados/obj/Debug/net8.0/GestiorEmpleados.AssemblyInfoInputs.cache
+/home/jcomte23/Projects/GestiorEmpleados/obj/Debug/net8.0/GestiorEmpleados.AssemblyInfo.cs
+/home/jcomte23/Projects/GestiorEmpleados/obj/Debug/net8.0/GestiorEmpleados.csproj.CoreCompileInputs.cache
+/home/jcomte23/Projects/GestiorEmpleados/obj/Debug/net8.0/GestiorEmpleados.sourcelink.json
+/home/jcomte23/Projects/GestiorEmpleados/obj/Debug/net8.0/GestiorEmpleados.dll
+/home/jcomte23/Projects/GestiorEmpleados/obj/Debug/net8.0/refint/GestiorEmpleados.dll
+/home/jcomte23/Projects/GestiorEmpleados/obj/Debug/net8.0/GestiorEmpleados.pdb
+/home/jcomte23/Projects/GestiorEmpleados/obj/Debug/net8.0/GestiorEmpleados.genruntimeconfig.cache
+/home/jcomte23/Projects/GestiorEmpleados/obj/Debug/net8.0/ref/GestiorEmpleados.dll

@@ -16,4 +16,14 @@ var empleado = new Empleado
 
 empleado.MostrarInformacion();
 
+var cliente = new Cliente
+{
+    Nombre = "María",
+    Apellido = "Gómez",
+    Edad = 28,
+    Email = "maria.gomez@gmail.com",
+    Telefono = "555-1234"
+};
+
+cliente.MostrarInformacion();
 
